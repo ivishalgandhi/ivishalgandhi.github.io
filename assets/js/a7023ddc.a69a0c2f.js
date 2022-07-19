@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"reverse-proxy","permalink":"/blog/tags/reverse-proxy","count":1},{"label":"NGINX","permalink":"/blog/tags/nginx","count":1},{"label":"DNSMASQ","permalink":"/blog/tags/dnsmasq","count":1},{"label":"Lab","permalink":"/blog/tags/lab","count":1}]')}}]);
