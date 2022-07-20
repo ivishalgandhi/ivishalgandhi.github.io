@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Guide to Software Bill of Materials(SBoM) and Docker SBOM CLI","permalink":"/blog/docker-sbom"},{"title":"Local Home Lab DNS Setup with DNSMasq and NGINX","permalink":"/blog/local-home-lab"}]}')}}]);
