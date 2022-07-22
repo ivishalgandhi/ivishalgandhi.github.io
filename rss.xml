@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>The Data Column Blog</title>
-        <link>https://vishalgandhi.in/</link>
+        <link>https://ivishalgandhi.github.io/</link>
         <description>The Data Column Blog</description>
         <lastBuildDate>Sat, 09 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Guide to Software Bill of Materials(SBoM) and Docker SBOM CLI]]></title>
-            <link>https://vishalgandhi.in/docker-sbom</link>
+            <link>https://ivishalgandhi.github.io/docker-sbom</link>
             <guid>docker-sbom</guid>
             <pubDate>Sat, 09 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[An Software Bill of Materials (SBoM) is a formal record containing the details and supply chain relationships of various components used in building the software. These components, including libraries and modules, can be proprietary or open source,free or paid and the data can be widely available or access-restricted.]]></description>
@@ -21,7 +21,7 @@
         </item>
         <item>
             <title><![CDATA[Local Home Lab DNS Setup with DNSMasq and NGINX]]></title>
-            <link>https://vishalgandhi.in/local-home-lab</link>
+            <link>https://ivishalgandhi.github.io/local-home-lab</link>
             <guid>local-home-lab</guid>
             <pubDate>Sun, 10 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[As I explored and set up an increased number of FOSS software using containers(Docker and LXD) and virtual machines(Multipass) in my home lab environment, I realized the difficulty in remembering the different ports the applications and containers are running. The solution to address this problem was to have a Domain Name System for the local network, which works to resolve local and external addresses with a reverse proxy to redirect calls based on DNS resolution.]]></description>
