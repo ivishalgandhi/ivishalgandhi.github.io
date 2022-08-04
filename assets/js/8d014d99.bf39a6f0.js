@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5759],{9534:e=>{e.exports=JSON.parse('{"label":"docker-desktop","permalink":"/tags/docker-desktop","allTagsPath":"/tags","count":1}')}}]);
