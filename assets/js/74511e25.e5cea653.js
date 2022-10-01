@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3958],{55531:a=>{a.exports=JSON.parse('{"label":"mongodb","permalink":"/tags/mongodb","allTagsPath":"/tags","count":4}')}}]);
