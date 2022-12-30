@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1834],{2718:e=>{e.exports=JSON.parse('{"label":"favourite-repo","permalink":"/tags/favourite-repo","allTagsPath":"/tags","count":1}')}}]);

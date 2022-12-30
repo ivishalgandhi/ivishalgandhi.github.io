@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[6004],{4454:e=>{e.exports=JSON.parse('{"label":"persistent-volume","permalink":"/tags/persistent-volume","allTagsPath":"/tags","count":1}')}}]);
