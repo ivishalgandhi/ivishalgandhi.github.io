@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2117],{30944:a=>{a.exports=JSON.parse('{"label":"bi-as-a-code","permalink":"/tags/bi-as-a-code","allTagsPath":"/tags","count":1}')}}]);
