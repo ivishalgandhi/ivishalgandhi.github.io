@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3781],{75926:a=>{a.exports=JSON.parse('{"label":"standardization","permalink":"/tags/standardization","allTagsPath":"/tags","count":1}')}}]);

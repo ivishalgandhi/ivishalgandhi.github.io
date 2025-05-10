@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1231],{32927:e=>{e.exports=JSON.parse('{"label":"mongo-replicaset","permalink":"/tags/mongo-replicaset","allTagsPath":"/tags","count":1}')}}]);

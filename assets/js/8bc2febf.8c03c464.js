@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3173],{82960:s=>{s.exports=JSON.parse('{"label":"DNSMASQ","permalink":"/tags/dnsmasq","allTagsPath":"/tags","count":1}')}}]);

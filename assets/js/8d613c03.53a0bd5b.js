@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9325],{68836:s=>{s.exports=JSON.parse('{"label":"rest-api-design-rules","permalink":"/tags/rest-api-design-rules","allTagsPath":"/tags","count":1}')}}]);

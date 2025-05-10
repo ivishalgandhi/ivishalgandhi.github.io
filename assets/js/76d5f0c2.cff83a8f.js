@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[6032],{64044:a=>{a.exports=JSON.parse('{"label":"streamlit","permalink":"/tags/streamlit","allTagsPath":"/tags","count":1}')}}]);
