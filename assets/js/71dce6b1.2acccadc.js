@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[4234],{78832(l){l.exports=JSON.parse('{"tag":{"label":"rill","permalink":"/tags/rill","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/rill","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

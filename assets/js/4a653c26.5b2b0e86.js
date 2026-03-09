@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[2267],{42984(a){a.exports=JSON.parse('{"tag":{"label":"ai-strategy","permalink":"/tags/ai-strategy","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/ai-strategy","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

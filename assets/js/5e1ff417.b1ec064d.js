@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[6322],{9637(a){a.exports=JSON.parse('{"tag":{"label":"docker","permalink":"/tags/docker","allTagsPath":"/tags","count":5,"unlisted":false},"listMetadata":{"permalink":"/tags/docker","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[2118],{64239(a){a.exports=JSON.parse('{"tag":{"label":"insomnia","permalink":"/tags/insomnia","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/insomnia","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

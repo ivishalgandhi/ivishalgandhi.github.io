@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[8360],{26937(a){a.exports=JSON.parse('{"tag":{"label":"streamlit","permalink":"/tags/streamlit","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/streamlit","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

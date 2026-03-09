@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[2098],{34334(a){a.exports=JSON.parse('{"tag":{"label":"doc-as-code","permalink":"/tags/doc-as-code","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/doc-as-code","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

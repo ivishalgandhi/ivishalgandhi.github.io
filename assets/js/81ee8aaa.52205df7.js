@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[935],{71613(a){a.exports=JSON.parse('{"tag":{"label":"windsurf","permalink":"/tags/windsurf","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/windsurf","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

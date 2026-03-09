@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[5516],{82947(a){a.exports=JSON.parse('{"tag":{"label":"open-source","permalink":"/tags/open-source","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/open-source","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
