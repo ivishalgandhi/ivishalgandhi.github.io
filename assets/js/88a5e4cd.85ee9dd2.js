@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[5199],{82735(a){a.exports=JSON.parse('{"tag":{"label":"concurrency","permalink":"/tags/concurrency","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/concurrency","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
