@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[8230],{67814(a){a.exports=JSON.parse('{"tag":{"label":"golang","permalink":"/tags/golang","allTagsPath":"/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/tags/golang","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[5630],{91365(a){a.exports=JSON.parse('{"tag":{"label":"acp","permalink":"/tags/acp","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/acp","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
